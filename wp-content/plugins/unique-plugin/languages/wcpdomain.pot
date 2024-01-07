@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-28 05:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: wcpdomain"
+
+#. Description of the plugin
+msgid "A truly amazing plugin."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://facebook.com/goryeongie"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lorenzo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Test Plugin"
+msgstr ""
+
+#: unique-plugin.php:40
+msgid "This post has"
+msgstr ""
+
+#: unique-plugin.php:119
+msgid "Word Count"
+msgstr ""
+
+#: unique-plugin.php:40
+msgid "words"
+msgstr ""
